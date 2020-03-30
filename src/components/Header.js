@@ -7,7 +7,7 @@ const styles = {
     header: {
         backgroundColor: appColors.primary,
         color: appColors.lightFont,
-        borderBottom: '1px solid rgb(235, 237, 240)',
+        borderBottom: '1px solid #cff09e',
         height: "50px"
     },
     avatar: {

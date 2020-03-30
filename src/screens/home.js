@@ -19,7 +19,7 @@ export default function () {
 				<ActionCard title="My Subscription" message="" fill={true} bg="#bdcdd4" icon={subscriptionImg} iconStyles={{ width: "15%" }} />
 			</Link>
 			<Link to="/orders">
-				<ActionCard title="Order status variants" message="Click here to see more" fill={true} bg="secondry" />
+				<ActionCard title="We're hungry!" message="" fill={false} bg="#fff" fg="#fff" />
 			</Link>
 		</Scaffold >)
 }
