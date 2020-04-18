@@ -13,5 +13,6 @@ code {
     monospace;
 }
 .ant-card-body{padding: 0px !important;}
+.ant-page-header{padding-right:3px !important;}
 .ant-page-header-heading-title{color:#fff !important;}
 .ant-page-header-heading-sub-title{float:right;margin:0px;}
