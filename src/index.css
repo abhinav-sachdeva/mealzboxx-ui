@@ -14,4 +14,4 @@ code {
 }
 .ant-card-body{padding: 0px !important;}
 .ant-page-header-heading-title{color:#fff !important;}
-.ant-page-header-heading-sub-title{float:right}
+.ant-page-header-heading-sub-title{float:right;margin:0px;}
